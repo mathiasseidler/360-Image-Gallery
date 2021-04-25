@@ -10,7 +10,11 @@ Thes images are usefull for the real estated industry as all directions of the c
 This application is work-in-progress and its goal is to host 360 images of an Architecture company.
 The app should allow creation of projects, editing projects and at one point access permission mgmt to allow the admin to expose galleries only to authorized users.
 
-# Software stack used:
-Svelte for frontend
+# Development stack:
+Svelte.js for frontend
+
 Python FastAPI as REST-ful API
-Python for CRUD business logic using SQLalchemy for data base mgmt (SQLite for local prototyping, Postgres for a later server-less deployment on Heroku)
+
+Python for CRUD business logic using SQLalchemy for data base mgmt 
+
+Data base: SQLite for local prototyping, Postgres for a later server-less deployment on Heroku
