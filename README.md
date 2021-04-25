@@ -11,9 +11,9 @@ This application is work-in-progress and its goal is to host 360 images of an Ar
 The app should allow creation of projects, editing projects and at one point access permission mgmt to allow the admin to expose galleries only to authorized users.
 
 # Development stack:
-Svelte.js for frontend
+Svelte.js providing a reactive frontend
 
-Python FastAPI as REST-ful API
+Python FastAPI implementing a REST-ful API
 
 Python for CRUD business logic using SQLalchemy for data base mgmt 
 
