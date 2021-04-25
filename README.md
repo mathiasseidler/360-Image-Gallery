@@ -18,3 +18,5 @@ Python FastAPI as REST-ful API
 Python for CRUD business logic using SQLalchemy for data base mgmt 
 
 Data base: SQLite for local prototyping, Postgres for a later server-less deployment on Heroku
+
+Authentication and user management: Auth0
