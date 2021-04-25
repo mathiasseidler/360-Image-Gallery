@@ -15,7 +15,7 @@ Svelte.js providing a reactive frontend
 
 Python FastAPI implementing a REST-ful API
 
-Python for CRUD business logic using SQLalchemy for data base mgmt 
+Python for CRUD business logic using SQLalchemy's object relational mapper for data base transaction.
 
 Data base: SQLite for local prototyping, Postgres for a later server-less deployment on Heroku
 
