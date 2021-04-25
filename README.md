@@ -15,7 +15,7 @@ Frontend: Svelte.js providing a reactive graphical user interface
 
 API: Python FastAPI implementing a REST-ful API
 
-Busniess logich and CRUD: Type-annotated Python using SQLalchemy's object relational mapper for data base transaction.
+Busniess logic and CRUD: Type-annotated Python using SQLalchemy's object relational mapper for data base transaction.
 
 Data base: SQLite for local prototyping, Postgres for a later server-less deployment on Heroku
 
